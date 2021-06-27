@@ -1,0 +1,7 @@
+## Interface: 20501
+## Title: Undying Legacy DKP
+## Notes: A loot distribution helper for Undying Legacy's DKP system.
+## Author: stephenswat
+## Version: v0.0.1
+
+UndyingLegacyDKP.lua
